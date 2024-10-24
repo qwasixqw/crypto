@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    width: 100%;
+    padding: 30px;
+    background-color: cornflowerblue;
+    min-height: 100vh;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 36px;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.card {
+	display: flex;
+	gap: 24px;
+	flex-direction: column;
+	height: 100%;
+	justify-content: space-between;
+	width: 600px;
+	height: 300px;
+	border-radius: 24px;
+	padding: 30px;
+	background-color: antiquewhite;
+}
+
+.card-block {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.card-block h2,
+.card-block div,
+.card-block p {
+	font-size: 36px;
+}
